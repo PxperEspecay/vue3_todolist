@@ -1,7 +1,9 @@
 HEAD
 # miniproject-TodoList
 
-This template should help get you started developing with Vue 3 in Vite.
+Learning Vue3 with miniproject TodoList
+Using tailwincss + daisyUI for User Interface, Using axios and mockAPI for handle data
+
 
 ## Recommended IDE Setup
 
@@ -29,6 +31,5 @@ npm run dev
 npm run build
 ```
 
-# vue3_todolist
-Learning Vue3 with miniproject TodoList
-e234da2cee77a5d8c0ed0992eece4b96235d451a
+
+
