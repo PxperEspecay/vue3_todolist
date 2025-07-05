@@ -1,3 +1,4 @@
+HEAD
 # miniproject-TodoList
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+# vue3_todolist
+Learning Vue3 with miniproject TodoList
+e234da2cee77a5d8c0ed0992eece4b96235d451a
